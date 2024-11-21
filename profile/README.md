@@ -1,4 +1,5 @@
-# KoBERT 기반 뉴스 토픽 분류 학습 모델 Mini MLOps
+# Hard Coding MLOps
+## KoBERT 기반 뉴스 토픽 분류 학습 모델 Mini MLOps
 
 ![mini_mlops_main](https://github.com/hard-coding-mlops/mini-mlops-fastapi/assets/111658806/daaec923-9454-4431-8270-350465041c0e)
 
@@ -7,7 +8,7 @@
 서경 SW 아카데미 <span style="font-weight:bold; font-size:1.2rem">Team "Hard Coding"</span> with Hecto Innovation
 </div>
 
-## 🤔 Mini MLOps 개발 배경
+## 🤔 MLOps 개발 배경
 뉴스 기사 분류 모델을 운영하는 과정에서 사용자에게 향상된 성능의 모델을 제공하고자 할 때, 새로운 데이터를 수집하고, 이를 정제하고, 모델을 학습시키고, 평가하고, 배포하는 과정을 반복하였습니다.
 
 이러한 과정을 직접 수행하다보니, 모델 개발에 집중하기 어려웠으며, 중간에 휴먼 에러가 발생하여 특정 과정을 다시 수행하며 시간을 많이 소모하게 되었습니다.
