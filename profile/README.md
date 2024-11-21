@@ -1,5 +1,5 @@
 # Hard Coding MLOps
-## KoBERT 기반 뉴스 토픽 분류 학습 모델 Mini MLOps
+## KoBERT 기반 뉴스 토픽 분류 학습 모델 MLOps
 
 ![mini_mlops_main](https://github.com/hard-coding-mlops/mini-mlops-fastapi/assets/111658806/daaec923-9454-4431-8270-350465041c0e)
 
