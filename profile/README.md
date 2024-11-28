@@ -54,7 +54,7 @@
 2023.11.06 ~ 2023.12.26
 
 ## 🏗️ 시스템 아키텍처
-![mini_mlops_architecture](https://github.com/hard-coding-mlops/mini-mlops-fastapi/assets/111658806/ca9a2e11-6e33-43b6-a0c0-cc1f91656182)
+<img alt="HARD_CODING_MLOPS_SYSTEM_ARCHITECTURE" src="https://github.com/user-attachments/assets/dbd42a86-e491-4f26-a7aa-f25a9f1f056a" width="100%">
 
 ## 🗃️ DB 설계
 ![mini_mlops_db](https://github.com/hard-coding-mlops/mini-mlops-fastapi/assets/111658806/3a3b0172-1e71-4e65-9831-3d578b2bec27)
