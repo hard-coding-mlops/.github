@@ -57,4 +57,4 @@
 <img alt="HARD_CODING_MLOPS_SYSTEM_ARCHITECTURE" src="https://github.com/user-attachments/assets/dbd42a86-e491-4f26-a7aa-f25a9f1f056a" width="100%">
 
 ## 🗃️ DB 설계
-![mini_mlops_db](https://github.com/hard-coding-mlops/mini-mlops-fastapi/assets/111658806/3a3b0172-1e71-4e65-9831-3d578b2bec27)
+<img alt="HARD_CODING_MLOPS_ERD" src="https://github.com/user-attachments/assets/26545eaa-b12e-430d-8c43-b9cac15e493c" width="100%">
