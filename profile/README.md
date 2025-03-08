@@ -1,4 +1,6 @@
 # Hard Coding MLOps
+<img width="100%" alt="hard-coding-mlops" src="https://github.com/user-attachments/assets/431cf3e5-4298-4ecb-815e-2aae9177f5b3">
+
 ## KoBERT 기반 뉴스 토픽 분류 학습 모델 MLOps
 
 ![mini_mlops_main](https://github.com/hard-coding-mlops/mini-mlops-fastapi/assets/111658806/daaec923-9454-4431-8270-350465041c0e)
